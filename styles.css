@@ -1,0 +1,42 @@
+body {
+    background-color: honeydew;
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+}
+
+h3 {
+    color: darkgreen;
+    text-align: center;
+}
+
+h4 {
+    color: darkgreen;
+}
+
+h5 {
+    color: darkgreen;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.center {
+    text-align: center;
+    font-style: italic;
+}
+
+
+
